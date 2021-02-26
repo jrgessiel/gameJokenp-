@@ -1,5 +1,5 @@
 # gameJokenpô
-![Preview-Screens](https://github.com/jrgessiel/gameMedals/blob/main/demo/gameJokenpô.png)
+![Preview-Screens](https://github.com/jrgessiel/gameJokenpo/blob/main/demo/gameJokenp%C3%B4.png)
 
 Se você quiser dar uma olhada em todas as telas do jogo, elas estão acima.
 
