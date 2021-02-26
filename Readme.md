@@ -45,5 +45,5 @@ Obrigado!
 
 ## License
 
-This project is licensed under the MIT License - see the [License.md](https://github.com/jrgessiel/gameMedals/blob/main/License) file for details
+This project is licensed under the MIT License - see the [License.md]https://github.com/jrgessiel/gameJokenpo/blob/main/License) file for details
 
